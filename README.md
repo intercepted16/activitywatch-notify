@@ -1,3 +1,3 @@
 # activitywatch-notify
 
-A TypeScript program that notifies you when a specified limit of minutes has been reached. It suggests you take a break. Or, you could activate a destructive mode that forces you to take a break!
+A TypeScript program using the Activity Watch API to notify you when a program's usage exceeds a set time limit. It also has a destructive mode, in which it terminates the program in question forcefully, if not manually closed.
